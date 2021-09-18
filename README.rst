@@ -6,7 +6,7 @@ Verlauf - The Terminal Color Gradient Generator
 Installation
 ------------
 
-To install ``verluaf``, simply run
+To install ``verlauf``, simply run
 
 ::
 
