@@ -1,9 +1,12 @@
 [tool.poetry]
 name = "verlauf"
-version = "0.1.0"
+version = "1.0.0"
 description = "Verlauf - The Terminal Color Gradient Generator"
 authors = ["Ceda EI <ceda_ei@webionite.com>"]
 license = "GPL-3.0"
+readme = "README.rst"
+homepage = "https://gitlab.com/ceda_ei/verlauf.git"
+repository = "https://gitlab.com/ceda_ei/verlauf.git"
 
 [tool.poetry.dependencies]
 python = "^3.8"
