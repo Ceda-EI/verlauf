@@ -7,7 +7,10 @@ license = "GPL-3.0"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+click = "^8.0.1"
 
+[tool.poetry.scripts]
+verlauf = "verlauf.__main__:main"
 [tool.poetry.dev-dependencies]
 
 [build-system]
