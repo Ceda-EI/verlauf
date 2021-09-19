@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "verlauf"
-version = "1.0.0"
+version = "1.0.1"
 description = "Verlauf - The Terminal Color Gradient Generator"
 authors = ["Ceda EI <ceda_ei@webionite.com>"]
 license = "GPL-3.0"
