@@ -34,7 +34,7 @@ def main(start, end, steps):
     print("Clockwise")
     print(*(i.swatch for i in hls[0]))
     print(*(i.name for i in hls[0]))
-    print("Anti-lockwise")
+    print("Anti-clockwise")
     print(*(i.swatch for i in hls[1]))
     print(*(i.name for i in hls[1]))
     print()
@@ -43,7 +43,7 @@ def main(start, end, steps):
     print("Clockwise")
     print(*(i.swatch for i in hsv[0]))
     print(*(i.name for i in hsv[0]))
-    print("Anti-lockwise")
+    print("Anti-clockwise")
     print(*(i.swatch for i in hsv[1]))
     print(*(i.name for i in hsv[1]))
 
